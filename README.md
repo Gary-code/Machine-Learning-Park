@@ -1,10 +1,10 @@
 # Mechine Learning Park
 
-> Gary 哥哥
->
+> Gary 哥
 
- <p align="center"><img src="https://raw.githubusercontent.com/Gary-code/Machine-Learning-Park/main/blogImgs/workaholic v1 圆角.png" width="100" height="100" align= /></p>
 
+
+<p align="center"><img src="https://raw.githubusercontent.com/Gary-code/Machine-Learning-Park/main/blogImgs/workaholic v1 圆角.png" width="100" height="100" /></p>
 <p align="center">
 	  <a href="" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>

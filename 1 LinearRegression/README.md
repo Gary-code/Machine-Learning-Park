@@ -216,5 +216,5 @@ J = J_{原} + \lambda \sum_{j=1}^{m}\theta_j^2\\
 J_{原} = \frac{1}{2 m} \sum_{i=1}^{m}\left(h\left(x^{(i)}\right)-y^{(i)}\right)^{2}
 $$
 
-为了防止过拟合
+为了防止过拟合。
 
