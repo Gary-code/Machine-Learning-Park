@@ -1,6 +1,19 @@
 ### 1 Linear Regression
 
 > 线性回归
+>
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/1%20LinearRegression](https://github.com/Gary-code/Machine-Learning-Park/tree/main/1%20LinearRegression)
+
+代码说明：
+
+| 文件名          | 说明                                    |
+| --------------- | --------------------------------------- |
+| numpy_version   | numpy实现使用data.txt数据集             |
+| pytorch_version | 包括使用pytorch从零开始实现和调用包实现 |
+
+
+
+
 
 #### 1.1 Linear Algebra
 
