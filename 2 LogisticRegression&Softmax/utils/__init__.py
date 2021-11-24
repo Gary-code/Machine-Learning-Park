@@ -1,4 +1,7 @@
 from d2l import torch as d2l
+import torch
+from IPython import display
+
 
 class Accumulator:
     """用于累积n个变量的总和"""
@@ -21,20 +24,20 @@ class Animator:
                  ylim=None, xscale='linear', yscale='linear',
                  fmts=('-', 'm--', 'g-.', 'r:'), nrows=1, ncols=1,
                  figsize=(3.5, 2.5)):
-        # Incrementally plot multiple lines
+        # 增量绘制多条线
         if legend is None:
             legend = []
         d2l.use_svg_display()
         self.fig, self.axes = d2l.plt.subplots(nrows, ncols, figsize=figsize)
         if nrows * ncols == 1:
             self.axes = [self.axes,]
-        # Use a lambda function to capture arguments
+        # 使用 lambda 函数捕获参数
         self.config_axes = lambda: d2l.set_axes(self.axes[
                                                     0], xlabel, ylabel, xlim, ylim, xscale, yscale, legend)
         self.X, self.Y, self.fmts = None, None, fmts
 
     def add(self, x, y):
-        # Add multiple data points into the figure
+        # 在图中添加多个数据点
         if not hasattr(y, "__len__"):
             y = [y]
         n = len(y)
@@ -59,27 +62,27 @@ class Animator:
 # 训练函数
 def train_epoch(net, train_iter, loss, updater):
     """每个epoch训练"""
-    # Set the model to training mode
+    # 将模型设置为训练模式
     if isinstance(net, torch.nn.Module):
         net.train()
-    # Sum of training loss, sum of training accuracy, no. of examples
+    # 训练损失总和，训练准确率总和
     metric = Accumulator(3)
     for X, y in train_iter:
-        # Compute gradients and update parameters
+        # 计算梯度更新参数
         y_hat = net(X)
         l = loss(y_hat, y)
         if isinstance(updater, torch.optim.Optimizer):
-            # Using PyTorch in-built optimizer & loss criterion
+            # 使用pytorch自带的更新参数
             updater.zero_grad()
             l.backward()
             updater.step()
             metric.add(float(l) * len(y), accuracy(y_hat, y), y.numel())
         else:
-            # Using custom built optimizer & loss criterion
+            # 自定义更新参数
             l.sum().backward()
             updater(X.shape[0])
             metric.add(float(l.sum()), accuracy(y_hat, y), y.numel())
-    # Return training loss and training accuracy
+    # 返回训练损失值和训练准确率
     return metric[0] / metric[2], metric[1] / metric[2]
 
 def train(net, train_iter, test_iter, loss, num_epochs, updater):
@@ -104,9 +107,8 @@ def accuracy(y_hat, y):
         y_hat = y_hat.argmax(axis=1)
     cmp = y_hat.type(y.dtype) == y
     return float(cmp.type(y.dtype).sum())
-# accuracy(y_hat, y) / len(y)
 
-#%%
+
 
 # 评估任意模型net的准确率
 def evaluate_accuracy(net, data_iter):
