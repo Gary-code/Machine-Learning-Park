@@ -21,8 +21,7 @@
 * 每个核心知识点都包含**知识讲解**和代码实现。
 * 本专栏主要目的用于个人学习，亦不可以篇概全，请谅解，有问题可提出。
 * 主要代码实现使用python，将同步到对应[github仓库：Machine-Learning-Park](https://github.com/Gary-code/MachineLearning)，代码尽量做到注释详细，有误请联系我并指出。
-
-
+* 由于公式块编辑器的缘故，github在线预览的markdown说明文档公式显示会出现错乱，需要下载对应文档，建议使用[Typora](https://www.typora.io/)打开。
 
 ## 思维导图展示
 
