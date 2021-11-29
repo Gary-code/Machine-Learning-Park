@@ -25,7 +25,7 @@
 
 ## 思维导图展示
 
-![](https://raw.githubusercontent.com/Gary-code/Machine-Learning-Park/files/blogImgs/RoadMap.png)
+![](https://i.loli.net/2021/11/29/ChMkZi2dwoOYDQ5.png)
 
 :rocket:更新ing......
 
