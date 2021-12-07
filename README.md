@@ -25,7 +25,7 @@
 
 ## 思维导图展示
 
-![](https://i.loli.net/2021/11/29/ChMkZi2dwoOYDQ5.png)
+![](./RoadMap.png)
 
 :rocket:更新ing......
 
