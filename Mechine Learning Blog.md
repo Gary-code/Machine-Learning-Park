@@ -823,9 +823,49 @@ $$
 * 随机森林对比决策树，具有更强的分割能力。
 * 解决决策树泛化能力弱的缺点。
 
+#### 4.3 AdaBoost（Adaptive Boosting）
+
+​	在了解完决策树与随机森林过后，下面我们介绍AdaBoost模型。
+
+与随机森林不一样，AdaBoost是Boosting算法中的一个显著代表。为此我们简单介绍一下Boosting算法。
+
+##### Boosting
+
+Boosting 算法的特征是个体学习器间存在强依赖关系，个体学习器以串行化方式生成。 
+
+1. 首先依据初始训练集训练出一个基学习器，再根据基学习器的表现对**样本分布进行调整**，对基学习器做错的样本给予更高的权重, 即残差逼近的思想，以**减小偏差**。
+2. 根据**调整后**的训练样本训练**下一个基学习器**，如此反复，直到达到预先指定的基学习器数目，再依据基学习器的表现进行结合，从而形成一个具有较好表现。
+
+##### Adaboost
+
+Adaboost的加权模型为**线性加权**，即：
+$$
+H(x)=\sum_{m=1}^{M} \alpha_{m} h_{m}(x)
+$$
 
 
-#### 4.3 AdaBoost
+其伪代码如下：
+
+![](https://s2.loli.net/2021/12/08/UxiTbVa7ljqk6Pe.png)
+
+完成上面步骤之后，最后输出**模型**：
+$$
+H(\mathrm{x})=\operatorname{sign}\left(\sum_{t=1}^{T} \alpha_{t} h_{t}(\mathrm{x})\right)
+$$
+算法解释：
+
+对第$t$个基学习器：
+
+1. 选择并且拟合基学习器$h_t(x)$。
+2. 根据拟合的基学习器，加入权重$w_{t}(i)$计算残差$e_t$。
+3. 计算基学习器的权重$\alpha_t$。
+4. 更新数据权重$w_{t+1}(i)$用于下一个基学习器。
+
+仔细观察，我们可以把步骤4的计算过程改写成：
+$$
+w_{t+1}(i)= \begin{cases}\frac{w_{t}(i)}{z_{t}} e^{-\alpha_{t}}, & \text { for right predictive sample } \\ \frac{w_{t}(i)}{z_{t}} e^{\alpha_{t}}, & \text { for wrong predictive sample }\end{cases}
+$$
+同时，我们注意到，当$e_{t} \leq 0.5且\alpha_{t} \geq 0$的时候，$\alpha_{t}=\frac{1}{2} \ln \frac{1-e_{t}}{e_{t}}$随着$e_t$的减小,$\alpha_t$会变大。证明错误率较小的分类器将更为重要。也从中看出AdaBoost模型的合理性。
 
 
 
