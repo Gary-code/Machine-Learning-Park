@@ -1,8 +1,16 @@
 ### 5 聚类（Clustering）
 
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/4%20Ensemble%20Method](https://github.com/Gary-code/Machine-Learning-Park/tree/main/4 Ensemble Method)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/5%20Clustering](https://github.com/Gary-code/Machine-Learning-Park/tree/main/5%20Clustering)
 
-> 
+> 代码说明：
+
+| 文件名                                                       | 说明                        |
+| ------------------------------------------------------------ | --------------------------- |
+| [k_means.ipynb](https://github.com/Gary-code/Machine-Learning-Park/blob/main/5 Clustering/k_means.ipynb) | K_Means算法解决文本词汇聚类 |
+| [GMM.ipynb](https://github.com/Gary-code/Machine-Learning-Park/blob/main/5 Clustering/GMM.ipynb) | GMM从零开始实现             |
+| [corpus_train.txt](https://github.com/Gary-code/Machine-Learning-Park/blob/main/5 Clustering/corpus_train.txt) | 用于K_Means聚类的文本数据集 |
+
+
 
 > 如果你有时刻留意我们[项目在github上的地址](https://github.com/Gary-code/Machine-Learning-Park)，你或许会发现从这里开始的代码会逐渐偏重于**理论探讨**和**场景应用**。主要为了更好的将我们所讲的理论知识用于实践当中。
 
@@ -153,5 +161,3 @@ EM算法是在最大化目标函数时：
 ![](https://s2.loli.net/2021/12/09/m2e1foRCl7Wvihu.png)
 
 ![](https://s2.loli.net/2021/12/09/mTPCaWMlDVF3nek.png)
-
-## 
