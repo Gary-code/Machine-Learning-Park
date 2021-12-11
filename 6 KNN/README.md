@@ -1,6 +1,6 @@
 ### 6 KNN (K近邻)
 
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/5%20Clustering](https://github.com/Gary-code/Machine-Learning-Park/tree/main/5%20Clustering)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/6%20KNN](https://github.com/Gary-code/Machine-Learning-Park/tree/main/6%20KNN)
 
 > 代码说明：
 
