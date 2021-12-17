@@ -6,9 +6,10 @@
 
 | 文件名                                                       | 说明                        |
 | ------------------------------------------------------------ | --------------------------- |
-| [k_means.ipynb](https://github.com/Gary-code/Machine-Learning-Park/blob/main/5 Clustering/k_means.ipynb) | K_Means算法解决文本词汇聚类 |
-| [GMM.ipynb](https://github.com/Gary-code/Machine-Learning-Park/blob/main/5 Clustering/GMM.ipynb) | GMM从零开始实现             |
-| [corpus_train.txt](https://github.com/Gary-code/Machine-Learning-Park/blob/main/5 Clustering/corpus_train.txt) | 用于K_Means聚类的文本数据集 |
+| k_means.ipynb | 从0开始实现k-Means |
+| GMM.ipynb | GMM从零开始实现             |
+| k_means_practice.ipynb | K_Means算法解决文本词汇聚类 |
+| corpus_train.txt | 用于K_Means聚类的文本数据集 |
 
 
 
@@ -106,18 +107,26 @@ $$
 
 在该假设下，每个单独的分模型都是标准高斯模型:
 
-* 其均值 $u_i$ 和方差 $\sum_i$ 是待估计的参数
-* 每个分模型都还有一个参数 $\pi_i$，可以理解为**权重**或生成数据的概率。高斯混合模型的公式为：
+* 其均值 $\mu_k$ 和方差 $\sigma_k$ 是待估计的参数
+* 每个分模型都还有一个参数 $\alpha_k$
+* 参数表示为$\theta_k$可以理解为**权重**或生成数据的概率。高斯混合模型的公式为：
 
 $$
-p(x)=\sum_{i=1}^{k} \pi_{i} N\left(x \mid u_{i}, \sum_{i}\right)
+P(x \mid \theta)=\sum_{k=1}^{K} \alpha_{k} \phi\left(x \mid \theta_{k}\right)
 $$
 
-对于上面三个参数的求解，我们开始的想法或许是采用概率统计学当中的**最大似然估计**的方法。遗憾的是，此问题中直接使用最大似然估计，得到的是一 个**复杂的非凸函数**，目标函数是和的对数，难以展开和**对其求偏导**。
+对于上面三个参数的求解，我们开始的想法或许是采用概率统计学当中的**最大似然估计**的方法。遗憾的是，此问题中直接使用最大似然估计，得到的是一 个**复杂的非凸函数**，目标函数是和的对数，难以展开和**对其求偏导**，其表达式如下：
+$$
+\log L(\theta)=\sum_{j=1}^{N} \log P\left(x_{j} \mid \theta\right)=\sum_{j=1}^{N} \log \left(\sum_{k=1}^{K} \alpha_{k} \phi\left(x \mid \theta_{k}\right)\right)
+$$
+
 
 这种情况下可以采用**EM算法**来求解。
 
 ##### EM算法
+
+1. E-step：求期望 $E\left(\gamma_{j k} \mid X, \theta\right)$ for all $j=1,2,...N;k=1,2,...,K$。
+2. M-step：求极大，计算新一轮迭代的模型参数。
 
 EM算法是在最大化目标函数时：
 
@@ -129,8 +138,29 @@ EM算法是在最大化目标函数时：
 
 首先，随机**初始化**参数的值。然后，重复下述两步，直到收敛。
 
-- E步骤。根据当前的参数，计算每个点由某个分模型生成的概率。
-- M步骤。使用E步骤估计出的概率，来改进每个分模型的均值，方差和权重。
+- E步骤。依据当前参数，计算每个数据$j$来自子模型$k$的可能性。
+
+$$
+\gamma_{j k}=\frac{\alpha_{k} \phi\left(x_{j} \mid \theta_{k}\right)}{\sum_{k=1}^{K} \alpha_{k} \phi\left(x_{j} \mid \theta_{k}\right)}, j=1,2, \ldots, N ; k=1,2, \ldots, K
+$$
+
+
+
+- M步骤。使用E步骤估计出的概率，来改进每个分模型的均值，方差和权重。如下所示，注意：每计算完一个值就**马上更新**！
+
+$$
+\mu_{k}=\frac{\sum_{j}^{N}\left(\gamma_{j k} x_{j}\right)}{\sum_{j}^{N} \gamma_{j k}}, k=1,2, \ldots, K
+$$
+
+用这一轮更新后的$\mu_k$：
+$$
+\sigma_{k}=\frac{\sum_{j}^{N} \gamma_{j k}\left(x_{j}-\mu_{k}\right)\left(x_{j}-\mu_{k}\right)^{T}}{\sum_{j}^{N} \gamma_{j k}}, k=1,2, \ldots, K
+$$
+
+$$
+\alpha_{k}=\frac{\sum_{j=1}^{N} \gamma_{j k}}{N}, k=1,2, \ldots, K
+$$
+**重复**E-M过程，**直到收敛**。
 
 > 举一个例子：
 
