@@ -2,7 +2,7 @@
 
 > 在前面[聚类的博客](https://blog.csdn.net/Garyboyboy/article/details/121865540)当中，我们简单的讲解过使用EM算法求解GMM模型的过程，这里我们对EM算法深入进行探讨。
 >
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/8%20Markov](https://github.com/Gary-code/Machine-Learning-Park/tree/main/8 Markov)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/9%20EM](https://github.com/Gary-code/Machine-Learning-Park/tree/main/9%20EM)
 
 > 代码说明：
 
