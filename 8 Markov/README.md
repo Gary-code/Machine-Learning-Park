@@ -1,6 +1,8 @@
 ### 8 Markov（马尔科夫模型）
 
 > HMM(隐马尔科夫模型)
+>
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/8%20Markov](https://github.com/Gary-code/Machine-Learning-Park/tree/main/8%20Markov)
 
 
 
@@ -12,7 +14,7 @@
 
 隐马尔科夫模型（Hidden Markov Model，以下简称HMM）是比较经典的机器学习模型了，它在**自然语言处理**，**模式识别**等领域得到广泛的应用。
 
-​	当然，随着深度学习的崛起，其逐渐被**RNN，LSTM，Transformer**等神经网络模型替代，但其中的思想仍然非常值得研究者去学习，由于本专栏专注于对基础知识的挖掘，因此对**HMM**会做深入的探究。
+当然，随着深度学习的崛起，其逐渐被**RNN，LSTM，Transformer**等神经网络模型替代，但其中的思想仍然非常值得研究者去学习，由于本专栏专注于对基础知识的挖掘，因此对**HMM**会做深入的探究。
 
 #### 8.1 模型基础
 
@@ -74,7 +76,7 @@ $$
    \Pi=[\pi(i)]_{N} \text { 其中 } \pi(i)=P\left(i_{1}=q_{i}\right)
    $$
    
-
+   
    
 
    一个HMM模型，可以由隐藏状态初始概率分布$\Pi$, 状态转移概率矩阵$A$和观测状态概率矩阵$B$决定。$\Pi,A$决定状态序列，$B$决定观测序列。因此，HMM模型可以由一个三元组$\lambda$表示如下：
