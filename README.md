@@ -7,14 +7,14 @@
     </a>
 </p>
 <div align="center">
-    <p style="color:#1296db; font-size:50px; font-family: monospace;">
+    <p style="color:#1296db; font-size:50px;">
         Mechine Learning Park
 	</p>
 </div>
 
 
 
-# <img src="./icon.png" style="zoom:15%; align:center;" /> Mechine Learning Park
+# Mechine Learning Park
 
 > Gary 哥
 
