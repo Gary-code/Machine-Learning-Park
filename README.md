@@ -1,13 +1,23 @@
-# Mechine Learning Park
+
+
+<p align="center"><img src="./icon.png" width="100" height="100" /></p>
+<p align="center">
+	  <a href="https://blog.csdn.net/garyboyboy/category_11485999.html" target="_blank">
+          <img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN">
+    </a>
+</p>
+<div align="center">
+    <p style="color:#1296db; font-size:50px; font-family: monospace;">
+        Mechine Learning Park
+	</p>
+</div>
+
+
+
+# <img src="./icon.png" style="zoom:15%; align:center;" /> Mechine Learning Park
 
 > Gary 哥
 
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/Gary-code/Machine-Learning-Park/files/blogImgs/workaholic v1 圆角.png" width="100" height="100" /></p>
-<p align="center">
-	  <a href="https://blog.csdn.net/garyboyboy/category_11485999.html" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
-</p>
 
 
 
@@ -16,7 +26,7 @@
 > 本专栏主要分**三大版块**（Three Parts），主要用于分享与总结机器学习相关
 >
 > * **机器学习基础**
-> * **实践深度学习**
+> * **深度学习实践**
 > * **工业应用**
 
 * 每个核心知识点都包含**知识讲解**和**代码实现**。
@@ -34,7 +44,7 @@
 
 
 
-### Part2: 实践深度学习
+### Part2: 深度学习实践
 
 **:bellhop_bell: 说明:**
 
@@ -46,7 +56,9 @@
 * 除了基础理论讲解外，版块还涉及**计算机视觉**和**自然语言处理**领域。由于个人精力有限，版块的重点会放在自然语言处理当中。若将来时间允许，也会对计算机视觉领域做深入讲解。
 * 同时，**理论探究**的基础上，高度强调**动手实践**来实现。
 
+**:thought_balloon: 思维导图展示：**
 
+![](./RoadMap_2.png)
 
 :hammer_and_wrench:**代码实现框架**：
 
@@ -60,8 +72,14 @@
 
 **:notebook:本版块主要内容**：
 
-* 实用机器学习技巧。
-* 数据科学相关的比赛。
+* 实用机器学习技巧
+* 数据科学相关的比赛
+
+**:dart:内容描述：**
+
+| 日期 | 内容 | 描述 | 封面 | coder(s) |
+| ---- | ---- | ---- | ---- | -------- |
+|      |      |      |      |          |
 
 
 
