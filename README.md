@@ -8,13 +8,14 @@
 </p>
 <div align="center">
     <p style="color:#1296db; font-size:50px;">
-        Mechine Learning Park
+        Machine Learning Park
 	</p>
 </div>
 
 
 
-# Mechine Learning Park
+
+# Machine Learning Park
 
 > Gary 哥
 
@@ -32,7 +33,7 @@
 * 每个核心知识点都包含**知识讲解**和**代码实现**。
 * 本专栏主要目的用于个人学习，亦不可以篇概全，请谅解，有问题可提出。
 * 主要代码实现使用python，将同步到对应[github仓库：Machine-Learning-Park](https://github.com/Gary-code/MachineLearning)，代码尽量做到注释详细，有误请联系我并指出。
-* 由于公式块编辑器的缘故，github在线预览的markdown说明文档公式显示会出现错乱，可以关注我[CSDN个人博客Mechine Learning Park专栏](https://blog.csdn.net/garyboyboy/category_11485999.html)来查看对应的内容，或者下载对应文档，建议使用[Typora](https://www.typora.io/)打开。
+* 由于公式块编辑器的缘故，github在线预览的markdown说明文档公式显示会出现错乱，可以关注我[CSDN个人博客Machine Learning Park专栏](https://blog.csdn.net/garyboyboy/category_11485999.html)来查看对应的内容，或者下载对应文档，建议使用[Typora](https://www.typora.io/)打开。
 
 ## 版块内容简介
 
