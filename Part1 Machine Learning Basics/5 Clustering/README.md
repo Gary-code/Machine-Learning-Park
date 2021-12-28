@@ -1,6 +1,6 @@
 ### 5 聚类（Clustering）
 
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/5%20Clustering](https://github.com/Gary-code/Machine-Learning-Park/tree/main/5%20Clustering)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics)
 
 > 代码说明：
 

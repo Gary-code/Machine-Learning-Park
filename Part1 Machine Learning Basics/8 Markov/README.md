@@ -2,7 +2,7 @@
 
 > HMM(隐马尔科夫模型)
 >
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/8%20Markov](https://github.com/Gary-code/Machine-Learning-Park/tree/main/8%20Markov)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics)
 
 
 

@@ -4,7 +4,7 @@
 
 > 逻辑回归
 >
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/2%20LogisticRegression%26Softmax](https://github.com/Gary-code/Machine-Learning-Park/tree/main/2%20LogisticRegression%26Softmax)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics)
 >
 > * **这是解决分类问题而不是回归问题的！**
 

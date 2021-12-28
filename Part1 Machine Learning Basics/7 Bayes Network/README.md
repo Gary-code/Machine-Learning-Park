@@ -1,6 +1,6 @@
 ### 7 Bayes Network（贝叶斯网络）
 
-> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/7%20Bayes%20Network](https://github.com/Gary-code/Machine-Learning-Park/tree/main/7%20Bayes%20Network)
+> 本文Github仓库已经同步文章与代码[https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics)
 
 > 代码说明：
 
