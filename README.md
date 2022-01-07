@@ -78,9 +78,9 @@
 
 **:dart:内容描述：**
 
-| 日期 | 内容 | 描述 | 封面 | coder(s) |
-| ---- | ---- | ---- | ---- | -------- |
-|      |      |      |      |          |
+| 日期       | 内容                                                         | 描述                                 | (比赛)官方连接                                   | 封面                                                         | coder(s)                               |
+| ---------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- |
+| 2021/01/07 | [国际人工智能机电建筑挑战赛](./Part3 Industrial Applications/Global AI Challenge for Building E&M Facilities) | 主要工作为特诊工程和LightGBM模型训练 | https://www.globalaichallenge.com/en/competition | ![image-20220107173832065](C:\Users\Gary\AppData\Roaming\Typora\typora-user-images\image-20220107173832065.png) | [Gary哥](https://github.com/Gary-code) |
 
 
 
