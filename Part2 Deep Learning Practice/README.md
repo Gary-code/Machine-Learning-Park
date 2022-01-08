@@ -2,6 +2,10 @@
 
 > Part2 深度学习实践
 
+**:information_desk_person:完整故事：**
+
+<img src="https://s2.loli.net/2022/01/08/sRwiWOnJukBQvVP.png" style="zoom:50%;" />
+
 在阅读本版块之前，需要读者掌握的先修知识：
 
 * 基础的Python编程
