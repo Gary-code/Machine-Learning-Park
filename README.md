@@ -49,7 +49,7 @@
 
 **:bellhop_bell: 说明:**
 
-* 本版块主要借助沐神的[动手学深度学习(d2l)课程](https://courses.d2l.ai/zh-v2/)与李宏毅的[机器学习系列课程](https://courses.d2l.ai/zh-v2/)。相关资料如下：
+* 本版块主要借助沐神的[动手学深度学习(d2l)课程](https://courses.d2l.ai/zh-v2/)与李宏毅的[机器学习系列课程](https://aistudio.baidu.com/aistudio/course/introduce/1978)。相关资料如下：
   * [d2l教程](http://zh.d2l.ai/)
   * [d2l中文开源项目](https://github.com/d2l-ai/d2l-zh)
   * [d2l英文开源项目](https://github.com/d2l-ai/d2l-en)
@@ -78,11 +78,11 @@
 
 **:dart:内容描述：**
 
-| 日期       | notebook                                       | 描述               | (比赛)官方连接                                               | coder(s)                               |
-| ---------- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------ | -------------------------------------- |
-| 2021/01/07 | [FE&LightGBM](./Part1 Machine Learning Basics) | 特诊工程和LightGBM | [国际人工智能机电建筑挑战赛](https://www.globalaichallenge.com/en/competition) | [Gary哥](https://github.com/Gary-code) |
+| 日期     | notebook                                       | 描述和说明                                               | (比赛)官方连接                                               | coder(s)                               |
+| -------- | ---------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- |
+| 22/01/07 | [FE&LightGBM](./Part1 Machine Learning Basics) | 特诊工程和LightGBM（由于正处于赛期，代码将在月份后公开） | [国际人工智能机电建筑挑战赛](https://www.globalaichallenge.com/en/competition) | [Gary哥](https://github.com/Gary-code) |
 
-Part3 Industrial application/Global AI Challenge for Building E&M Facilities
+
 
 ### :film_projector: 项目进展
 
