@@ -80,17 +80,18 @@
 
 ### :film_projector: 项目进展
 
-| 所属板块           | 内容                                                         | 作者                                      |
-| ------------------ | ------------------------------------------------------------ | ----------------------------------------- |
-| Part1 机器学习基础 | [1 线性回归](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/1%20LinearRegression) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [2 逻辑回归与Softmax](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/2%20LogisticRegression%26Softmax) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [3 支持向量机](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/3%20SVM) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [4 集成方法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/4%20Ensemble%20Method) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [5 聚类](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/5%20Clustering) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [6 K近邻算法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/6%20KNN) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [7 贝叶斯网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/7%20Bayes%20Network) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [8 马尔科夫模型](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/8%20Markov) | [Gary-code](https://github.com/Gary-code) |
-| Part1 机器学习基础 | [9 最大期望算法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/9%20EM) | [Gary-code](https://github.com/Gary-code) |
+| 所属板块           | 内容                                                         | 作者                                       |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------ |
+| Part1 机器学习基础 | [1 线性回归](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/1%20LinearRegression) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [2 逻辑回归与Softmax](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/2%20LogisticRegression%26Softmax) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [3 支持向量机](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/3%20SVM) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [4 集成方法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/4%20Ensemble%20Method) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [5 聚类](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/5%20Clustering) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [6 K近邻算法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/6%20KNN) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [7 贝叶斯网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/7%20Bayes%20Network) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [8 马尔科夫模型](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/8%20Markov) | [@Gary-code](https://github.com/Gary-code) |
+| Part1 机器学习基础 | [9 最大期望算法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/9%20EM) | [@Gary-code](https://github.com/Gary-code) |
+| Part2 深度学习实践 | [1 AI框架使用(Pytorch)](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/1%20AI%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8(Pytorch)/1.1%20%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C) | [@Gary-code](https://github.com/Gary-code) |
 
 :rocket:更新ing......
 
