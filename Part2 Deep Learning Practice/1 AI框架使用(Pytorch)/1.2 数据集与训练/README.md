@@ -289,4 +289,4 @@ Y.shape
 
 ![image-20220111172548685](https://s2.loli.net/2022/01/11/4GcJAVQsifImy2U.png) 
 ![image-20220111172602891](https://s2.loli.net/2022/01/11/go6z7ydH2s5NZRS.png) 
-![image-20220111172617057](https://s2.loli.net/2022/01/11/kUeXAqT9GRbhs1B.png) |
+![image-20220111172617057](https://s2.loli.net/2022/01/11/kUeXAqT9GRbhs1B.png) 
