@@ -92,6 +92,7 @@
 | Part1 机器学习基础 | [8 马尔科夫模型](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/8%20Markov) | [@Gary-code](https://github.com/Gary-code) |
 | Part1 机器学习基础 | [9 最大期望算法](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part1%20Machine%20Learning%20Basics/9%20EM) | [@Gary-code](https://github.com/Gary-code) |
 | Part2 深度学习实践 | [1 AI框架使用(Pytorch)](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/1%20AI%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8(Pytorch)) | [@Gary-code](https://github.com/Gary-code) |
+| Part2 深度学习实践 | [2 线性神经网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/2%20%E7%BA%BF%E6%80%A7%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | [@Gary-code](https://github.com/Gary-code) |
 
 :rocket:更新ing......
 
