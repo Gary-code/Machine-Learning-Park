@@ -141,7 +141,7 @@ $m^t=\lambda m^{t-1} - \eta g^{t-1}$, $m^0=0$
 
 * [比赛1](./covid19_prediction.ipynb)
 
-* [比赛2](./phoneme_classification.ipynb)
+* [比赛2](./TIMIT framewise phoneme classification.ipynb)
 
 并且将展示：
 * 本地Windows环境（比赛1）下
