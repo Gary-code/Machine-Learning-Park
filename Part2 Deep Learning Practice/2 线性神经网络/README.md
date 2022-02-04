@@ -1,5 +1,5 @@
 # 2 线性神经网络
-
+本博客与代码已同步到[github](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/2%20%E7%BA%BF%E6%80%A7%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)当中，欢迎各位读者为此项目提供宝贵的issue
 > 注意：本页面的一些超链接跳转会有一些**错乱**，建议打开对应**小节**进行内容查看。
 
 ## 2.1 线性回归
