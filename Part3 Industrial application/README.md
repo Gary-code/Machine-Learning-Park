@@ -11,7 +11,8 @@
 
 **:dart:比赛实战：**
 
-| 日期     | notebook                                       | 描述和说明         | (比赛)官方连接                                               | coder(s)                               |
-| -------- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------ | -------------------------------------- |
-| 22/01/07 | [FE&LightGBM](./Part1 Machine Learning Basics) | 特诊工程和LightGBM | [国际人工智能机电建筑挑战赛](https://www.globalaichallenge.com/en/competition) | [Gary哥](https://github.com/Gary-code) |
+| 日期     | notebook                                                     | 描述和说明         | (比赛)官方连接                                               | coder(s)                                |
+| -------- | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ | --------------------------------------- |
+| 22/01/07 | [FE&LightGBM](./Part1 Machine Learning Basics)               | 特诊工程和LightGBM | [国际人工智能机电建筑挑战赛](https://www.globalaichallenge.com/en/competition) | [@Gary哥](https://github.com/Gary-code) |
+| 22/02/02 | [时间序列预测](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part3%20Industrial%20application/G-Research%20Crypto%20Forecasting) | 时间序列，多模型   | [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting) | [@Gary哥](https://github.com/Gary-code) |
 
