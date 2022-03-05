@@ -4,7 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Part2 Deep Learning Practice" />
-    <orderEntry type="module" module-name="d2l" />
   </component>
 </module>

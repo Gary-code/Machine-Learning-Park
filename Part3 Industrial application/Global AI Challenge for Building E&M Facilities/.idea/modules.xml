@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Global AI Challenge for Building E&amp;M Facilities.iml" filepath="$PROJECT_DIR$/.idea/Global AI Challenge for Building E&amp;M Facilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part2 Deep Learning Practice/.idea/Part2 Deep Learning Practice.iml" filepath="$PROJECT_DIR$/../../Part2 Deep Learning Practice/.idea/Part2 Deep Learning Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../deep learning/d2l/.idea/d2l.iml" filepath="$PROJECT_DIR$/../../../../../deep learning/d2l/.idea/d2l.iml" />
     </modules>
   </component>
 </project>

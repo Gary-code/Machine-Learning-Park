@@ -13,7 +13,7 @@
 
 | 日期     | notebook                                                     | 描述和说明                      | (比赛)官方连接                                               | coder(s)                                |
 | -------- | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | --------------------------------------- |
-| 22/01/07 | [FE&LightGBM](./Part1 Machine Learning Basics)               | 特诊工程和LightGBM              | [国际人工智能机电建筑挑战赛](https://www.globalaichallenge.com/en/competition) | [@Gary哥](https://github.com/Gary-code) |
+| 22/01/07 | [FE&LightGBM](https://github.com/Gary-code/Machine-Learning-Park/blob/main/Part3%20Industrial%20application/Global%20AI%20Challenge%20for%20Building%20E%26M%20Facilities/FE%26lbgm.ipynb) | 特诊工程和LightGBM              | [国际人工智能机电建筑挑战赛](https://www.globalaichallenge.com/en/competition) | [@Gary哥](https://github.com/Gary-code) |
 | 22/02/02 | [时间序列预测](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part3%20Industrial%20application/G-Research%20Crypto%20Forecasting) | 时间序列，多模型                | [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting) | [@Gary哥](https://github.com/Gary-code) |
 | 22/03/05 | [Tutorial for EDA](https://github.com/Gary-code/Machine-Learning-Park/blob/main/Part3%20Industrial%20application/Tutorial%20for%20EDA%20and%20Baseline/House_Sales_for_EDA_and_Baseline.ipynb) | EDA and Baseline with Autogluon | [Assignment for CS329P](https://c.d2l.ai/stanford-cs329p/assignments.html) | [@Gary哥](https://github.com/Gary-code) |
 
