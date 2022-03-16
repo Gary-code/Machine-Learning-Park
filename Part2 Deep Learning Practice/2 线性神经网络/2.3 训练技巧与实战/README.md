@@ -7,11 +7,9 @@
 * 批量标准化(batch normalization)
 
 *实战部分*为**两个比赛**：
->
-训练过程建议读者在[Colab](https://colab.research.google.com/)或者[Kaggle](https://www.kaggle.com/)上选用GPU加速跑模型。
+> 训练过程建议读者在[Colab](https://colab.research.google.com/)或者[Kaggle](https://www.kaggle.com/)上选用GPU加速跑模型。
 * [COVID-19 Cases Prediction](https://www.kaggle.com/c/ml2021spring-hw1)
-* [TIMIT framewise phoneme classification](https://www.kaggle.com/c/ml2021spring-
-hw2)
+* [TIMIT framewise phoneme classification](https://www.kaggle.com/c/ml2021spring-hw2)
 
 ### 2.3.1 训练技巧
 

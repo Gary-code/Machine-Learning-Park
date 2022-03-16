@@ -1,4 +1,6 @@
 # 1 AI框架使用(Pytorch)
+本博客与代码已同步到[github](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/1%20AI%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8(Pytorch)
+)当中，欢迎各位读者为此项目提供宝贵的issue
 
 > 每小节都有对应的可执行notebook文件。
 
