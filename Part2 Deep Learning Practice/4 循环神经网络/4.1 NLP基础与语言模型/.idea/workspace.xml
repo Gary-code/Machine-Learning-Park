@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfe86ab5-750b-46ab-b85f-56ea7c6b9917" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Part1 Machine Learning Basics/2 LogisticRegression&amp;Softmax/softmax_pytorch_version.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Part1 Machine Learning Basics/2 LogisticRegression&amp;Softmax/softmax_pytorch_version.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp_get_start.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nlp_get_start.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="26aI1M4clpq1Crs5UqvenluZc5M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe86ab5-750b-46ab-b85f-56ea7c6b9917" name="Default Changelist" comment="" />
+      <created>1647655060146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647655060146</updated>
+      <workItem from="1647655062077" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>
