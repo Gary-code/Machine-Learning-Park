@@ -91,14 +91,9 @@
 | Part2 深度学习实践 | [2+ 多层感知机与深度学习](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/2%2B%20%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0) | [@Gary-code](https://github.com/Gary-code) |
 | Part2 深度学习实践 | [3 卷积神经网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/3%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | [@Gary-code](https://github.com/Gary-code) |
 | Part2 深度学习实践 | [4 循环神经网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/4%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | [@Gary-code](https://github.com/Gary-code) |
+| Part2 深度学习实践 | [5 注意力机制](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/5%20%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6) | [@Gary-code](https://github.com/Gary-code) |
 
 :rocket:更新ing......
-
-
-
-
-
-
 
 **联系我：**
 
