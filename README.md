@@ -92,6 +92,7 @@
 | Part2 深度学习实践 | [3 卷积神经网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/3%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | [@Gary-code](https://github.com/Gary-code) |
 | Part2 深度学习实践 | [4 循环神经网络](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/4%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C) | [@Gary-code](https://github.com/Gary-code) |
 | Part2 深度学习实践 | [5 注意力机制](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2%20Deep%20Learning%20Practice/5%20%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6) | [@Gary-code](https://github.com/Gary-code) |
+| Part2 深度学习实践 | [6 优化算法与计算性能](https://github.com/Gary-code/Machine-Learning-Park/tree/main/Part2 Deep Learning Practice/6 优化算法与计算性能) | [@Gary-code](https://github.com/Gary-code) |
 
 :rocket:更新ing......
 
