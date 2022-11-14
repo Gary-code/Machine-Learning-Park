@@ -1,8 +1,12 @@
 # BDCI 2022 返乡发展人群预测
 
-> * 训练数据存放在data文件夹当中
-> * baseline_filter 为人工筛选特征的代码
-> * dataA和dataB分别为A，B榜的训练数据
+> * 训练数据存放在**data文件夹**当中
+> * `baseline_filter.ipynb` 为人工筛选特征的代码
+> * `dataA.csv`和`dataB.csv`分别为A，B榜的训练数据
+
+### :seedling: 说明
+
+* 该`baseline`方案可以在`A`,`B`榜均可取得20～30名的成绩。
 
 ### 赛题任务
 
